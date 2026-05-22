@@ -12,7 +12,7 @@ Currently interested in:
 - Web Development
 - UI/UX Focused Applications
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camila-queiroz-figueiredo-359470203/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/camilaqfigueiredo)
 
 ---
 
