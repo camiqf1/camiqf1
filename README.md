@@ -1,15 +1,16 @@
 # Hi, I'm Camila Figueiredo 👋
 
-Software Engineering student focused on Full-Stack Development, Cloud Technologies, Embedded Systems, and Web Engineering.
+Software Engineer focused on Full-Stack Development, Cloud Technologies, Embedded Systems, and Web Engineering.
 
-I build scalable web applications using React, Java, Quarkus, Node.js, MySQL, and AWS while also exploring embedded systems, PCB development, and microcontroller programming.
+I build scalable web applications using React, Java, Quarkus, Node.js, MySQL, AWS, and C++ while exploring game development, embedded systems, PCB design, and microcontroller programming.
 
 Currently interested in:
 - Full-Stack Development
+- Game Development
+- Web Development
 - Cloud & AWS
 - Software Engineering
 - Embedded Systems
-- Web Development
 - UI/UX Focused Applications
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/camilaqfigueiredo)
