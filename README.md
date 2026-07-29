@@ -19,7 +19,7 @@ Currently interested in:
 
 ## 🚀 Featured Projects
 
-### 🗡️ Zork Adventure Game
+### 👻 Zork Adventure Game
 Text-based adventure game developed in C++ inspired by the classic Zork series.
 
 Features:
